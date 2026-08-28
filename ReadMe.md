@@ -289,18 +289,17 @@ Combines aerial imagery, computer vision and intelligent analysis to support pre
 
 <div align="center">
 
-| achievement                          | details                                          |
-| :----------------------------------- | :----------------------------------------------- |
-| 🏆 **Chancellor Award — Tech-Maker** | Recognized for technical innovation and building |
-| 🚀 **AI Bharat Hackathon**           | National Final Round                             |
-| 🇮🇳 **Smart India Hackathon 2025**  | College Qualifier                                |
-| 🇮🇳 **Smart India Hackathon 2024**  | College Qualifier                                |
-| 🎓 **Department Rank 3rd**           | CSE-AI · 2024–25                                 |
-| 📚 **GPA 9.55 / 10**                 | Institute of Engineering & Management            |
+| achievement | details |
+|:---|:---|
+| 🚀 **AI Bharat Hackathon** | National Final Round |
+| 🏆 **Hack Fusion** | 2nd Runner Up |
+| ⭐ **HackArena 3.0** | National Finalist |
+| 🇮🇳 **Smart India Hackathon 2025** | College Qualifier |
+| 🇮🇳 **Smart India Hackathon 2024** | College Qualifier |
+| 🎓 **Department Rank 3rd** | CSE-AI · 2024–25 |
+| 📚 **GPA 9.25 / 10** | Institute of Engineering & Management |
 
 </div>
-
-<br/>
 
 ## <samp>$ cat research.md</samp>
 
