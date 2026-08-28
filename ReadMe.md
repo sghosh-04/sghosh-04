@@ -269,23 +269,21 @@ Combines aerial imagery, computer vision and intelligent analysis to support pre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sghosh-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=7ee787&text_color=8b949e&count_private=true&include_all_commits=true&border_radius=6" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sghosh-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=7ee787&text_color=8b949e&count_private=true&include_all_commits=true&border_radius=6&cache_seconds=86400" height="165" alt="GitHub stats"/>
 
- 
+&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghosh-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&border_radius=6" height="165" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sghosh-04&hide_border=true&background=0d1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=484f58&border_radius=6&timezone=Asia%2FKolkata" width="86%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghosh-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&border_radius=6&cache_seconds=86400" height="165" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sghosh-04&bg_color=0d1117&color=8b949e&line=7ee787&point=c9d1d9&area=true&area_color=7ee787&hide_border=true&radius=6&custom_title=contribution%20activity" width="92%" alt="contribution activity"/>
+<img src="https://streak-stats.demolab.com/?user=sghosh-04&theme=dark&hide_border=true&background=0d1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=484f58&border_radius=6&timezone=Asia%2FKolkata" width="86%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sghosh-04&bg_color=0d1117&color=8b949e&line=7ee787&point=c9d1d9&area=true&hide_border=true&radius=6&custom_title=contribution%20activity" width="92%" alt="contribution activity"/>
 
 </div>
-
-<br/>
 
 ## <samp>$ cat achievements.md</samp>
 
