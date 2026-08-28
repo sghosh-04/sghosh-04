@@ -88,22 +88,26 @@ I work across **machine learning, computer vision, NLP, and full-stack developme
 
 <td width="49%" valign="top">
 
-<samp>nlp · speech · ai pipeline</samp>
+<samp>ai · retail · aws · saas</samp>
 
-### Lecture Voice-to-Notes <img src="https://img.shields.io/badge/-completed-238636?style=flat-square" alt="completed"/>
+### RetailMind AI <img src="https://img.shields.io/badge/-live-238636?style=flat-square" alt="live"/>
 
-End-to-end AI pipeline that transforms raw lecture audio into structured, study-ready notes.
+**AWS-native AI retail platform for Indian SMEs.**
 
-* → Faster-Whisper for speech-to-text
-* → T5/BART for summarization
-* → TF-IDF + KMeans for topic clustering
-* → MiniLM embeddings for sentence ranking
-* → PDF & DOCX export
-* → Streamlit interface
+A production-oriented multi-tenant SaaS combining retail operations, forecasting, pricing intelligence and generative AI.
 
-`Python` `Faster-Whisper` `T5/BART` `Scikit-learn` `Streamlit`
+* → GST-based multi-tenant onboarding
+* → POS billing & revenue tracking
+* → real-time inventory intelligence
+* → 30-day demand forecasting
+* → competitor pricing analysis
+* → AI Retail Copilot powered by Amazon Bedrock
+* → business health scoring & recommendations
 
-<a href="https://github.com/sghosh-04/notes_generator"><img src="https://img.shields.io/badge/-notes__generator_%E2%86%97-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="repository"/></a>
+`Next.js` `FastAPI` `PostgreSQL` `AWS` `SageMaker` `Bedrock`
+
+<a href="https://github.com/sghosh-04/RetailMind_AI"><img src="https://img.shields.io/badge/-github_%E2%86%97-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="repository"/></a>
+  <a href="https://retail-mind-ai.vercel.app/login"><img src="https://img.shields.io/badge/-live_demo_%E2%86%97-161b22?style=flat-square&logo=googlechrome&logoColor=7ee787" alt="live demo"/></a>
 
 </td>
 
@@ -111,22 +115,25 @@ End-to-end AI pipeline that transforms raw lecture audio into structured, study-
 
 <td width="49%" valign="top">
 
-<samp>computer vision · research · robustness</samp>
+<samp>data analytics · sql · power bi</samp>
 
-### CNN Generalization Research <img src="https://img.shields.io/badge/-research-8957e5?style=flat-square" alt="research"/>
+### Global Financial Inclusion Analytics <img src="https://img.shields.io/badge/-analytics-8957e5?style=flat-square" alt="analytics"/>
 
-A study of how AI-generated-image detectors behave when the data distribution changes.
+**End-to-end Business Intelligence platform built from the World Bank Global Findex dataset.**
 
-* → EfficientNet & ResNet50 transfer learning
-* → in-distribution vs. out-of-distribution evaluation
-* → significant performance collapse under dataset shift
-* → Grad-CAM for model interpretation
-* → ROC curves & confusion matrices
-* → research-style technical report
+Transforms raw survey data into a dimensional data warehouse and interactive executive dashboards.
 
-`Python` `TensorFlow` `EfficientNet` `ResNet50` `Grad-CAM`
+* → 8,577 records & 438 features
+* → SQL Server data warehouse
+* → star-schema dimensional modeling
+* → ETL & reporting SQL views
+* → Power BI executive dashboards
+* → DAX-driven financial inclusion KPIs
+* → digital finance & demographic analysis
 
-<a href="https://github.com/sghosh-04/cnn-generalization-dataset-shift"><img src="https://img.shields.io/badge/-research_%E2%86%97-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="repository"/></a>
+`SQL Server` `Power BI` `DAX` `Python` `Power Query`
+
+<a href="https://github.com/sghosh-04/online-retail-sql-analysis"><img src="https://img.shields.io/badge/-github_%E2%86%97-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="repository"/></a>
 
 </td>
 
@@ -138,18 +145,23 @@ A study of how AI-generated-image detectors behave when the data distribution ch
 
 <td width="49%" valign="top">
 
-<samp>computer vision · deep learning · agriculture</samp>
+<samp>ai · data analysis · automation</samp>
 
-### Plant Disease Detection <img src="https://img.shields.io/badge/-ai%20%2F%20cv-238636?style=flat-square" alt="AI/CV"/>
+### DataSherlock AI <img src="https://img.shields.io/badge/-ai-238636?style=flat-square" alt="AI"/>
 
-AI-powered computer vision system for identifying plant diseases from leaf imagery.
+**AI-powered data investigation and analysis platform.**
 
-* → deep-learning based disease classification
-* → computer vision pipeline
-* → image-based disease identification
-* → designed around practical agricultural use cases
+Built to make exploring, understanding and extracting insights from datasets more intelligent and accessible.
 
-`Python` `Deep Learning` `CNN` `Computer Vision`
+* → automated data exploration
+* → AI-assisted data investigation
+* → natural-language interaction with data
+* → analytical insights without manually writing every query
+* → designed around an investigator-style workflow
+
+`Python` `AI/ML` `Data Analysis` `LLMs`
+
+<a href="https://github.com/sghosh-04/DataSherlock-AI"><img src="https://img.shields.io/badge/-github_%E2%86%97-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="repository"/></a>
 
 </td>
 
@@ -157,19 +169,24 @@ AI-powered computer vision system for identifying plant diseases from leaf image
 
 <td width="49%" valign="top">
 
-<samp>ai · full-stack · product engineering</samp>
+<samp>computer vision · agriculture · drones</samp>
 
-### AI Systems & Product Builds <img src="https://img.shields.io/badge/-building-d29922?style=flat-square" alt="building"/>
+### Agri Project Drone <img src="https://img.shields.io/badge/-computer%20vision-d29922?style=flat-square" alt="computer vision"/>
 
-I also build end-to-end AI products where the model is only one part of the system.
+**Drone-assisted AI system for agricultural monitoring and analysis.**
 
-* → AI-powered applications
-* → backend APIs & databases
-* → model integration
-* → web interfaces
-* → deployment & production workflows
+Combines aerial imagery, computer vision and intelligent analysis to support precision agriculture.
 
-`Python` `FastAPI` `Next.js` `PostgreSQL` `AWS` `AI/ML`
+* → drone-based crop monitoring
+* → aerial image analysis
+* → computer vision pipeline
+* → agricultural health assessment
+* → AI-assisted field intelligence
+* → focused on practical precision-agriculture use cases
+
+`Python` `Computer Vision` `Deep Learning` `Drone Imaging`
+
+<a href="https://github.com/sghosh-04/agri-project-drone"><img src="https://img.shields.io/badge/-github_%E2%86%97-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="repository"/></a>
 
 </td>
 
@@ -177,7 +194,6 @@ I also build end-to-end AI products where the model is only one part of the syst
 
 </table>
 
-<br/>
 
 ## <samp>$ cat stack.json</samp>
 
