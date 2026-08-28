@@ -331,23 +331,68 @@ PostgreSQL · MongoDB · Redis · Docker · AWS · Azure · Git · CI/CD · Clou
 ```
 <br/>
 
+<br/>
+
 ## <samp>$ git log --stat</samp>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sghosh-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=7ee787&text_color=8b949e&count_private=true&include_all_commits=true&border_radius=6&cache_seconds=86400" height="165" alt="GitHub stats"/>
+<table width="90%">
+<tr>
+<td align="center">
+
+### 🟢 GitHub Activity
+
+<br/>
+
+<samp>
+Building consistently across AI/ML, software engineering,
+data engineering and full-stack development.
+</samp>
+
+<br/><br/>
+
+<a href="https://github.com/sghosh-04?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-161b22?style=for-the-badge&logo=github&logoColor=7ee787" alt="Repositories"/>
+</a>
 
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghosh-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&border_radius=6&cache_seconds=86400" height="165" alt="top languages"/>
+<a href="https://github.com/sghosh-04?tab=stars">
+<img src="https://img.shields.io/badge/Explore-My%20Work-161b22?style=for-the-badge&logo=github&logoColor=7ee787" alt="My work"/>
+</a>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com/?user=sghosh-04&theme=dark&hide_border=true&background=0d1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=484f58&border_radius=6&timezone=Asia%2FKolkata" width="86%" alt="GitHub streak"/>
+<br/>
 
-<br/><br/>
+<table width="90%">
+<tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sghosh-04&bg_color=0d1117&color=8b949e&line=7ee787&point=c9d1d9&area=true&hide_border=true&radius=6&custom_title=contribution%20activity" width="92%" alt="contribution activity"/>
+<td align="center" width="25%">
+<h3>AI / ML</h3>
+<sub>Computer Vision<br/>NLP · LLMs<br/>Deep Learning</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>SDE</h3>
+<sub>DSA · OOP<br/>REST APIs<br/>System Design</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>Full Stack</h3>
+<sub>Next.js · React<br/>FastAPI · Node.js<br/>PostgreSQL</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>Cloud</h3>
+<sub>AWS · Docker<br/>CI/CD<br/>Deployment</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
